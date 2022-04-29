@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Jogo da Velha App</string>
+    <string name="action_settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="jogador_1">Jogador 1 |%1$s|</string>
+    <string name="placar1">0</string>
+    <string name="jogador_2">Jogador 2 |%1$s|</string>
+    <string name="placar2">0</string>
+    <string name="venceu">Parabens, você venceu !!!!</string>
+    <string name="deuvelha">Deu Velha Idiotas!!</string>
+    <string name="resetar">Resetar o Placar</string>
+    <string name="inico">Voltar a tela inicial</string>
+    <string name="preferencias">Preferências</string>
+    <string name="simb_jog1">Simbolo Jogador 1</string>
+    <string name="simb_jog2">Simbolo Jogador 2</string>
+    <string name="summary_log1">Escolha o simbolo do Jogador 1</string>
+    <string name="summary_log2">Escolha o simbolo do Jogador 2</string>
+</resources>
